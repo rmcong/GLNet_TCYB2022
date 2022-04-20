@@ -18,4 +18,4 @@ Project: https://rmcong.github.io/proj_GLNet.html
     }
 
 # Contact Us:
-If you have any questions, please contact Runmin Cong at rmcong@bjtu.edu.cn.
+If you have any questions, please contact Runmin Cong (rmcong@bjtu.edu.cn) or Ning Yang (ningyang@bjtu.edu.cn).
