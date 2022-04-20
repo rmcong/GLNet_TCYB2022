@@ -3,11 +3,11 @@ Runmin Cong, Ning Yang, Chongyi Li, Huazhu Fu, Yao Zhao, Qingming Huang, and Sam
 
 Project: https://rmcong.github.io/proj_GLNet.html
 
-# Code and Results of RRNet:
+# Code and Results of GLNet:
   - Coming soon......
 
 
-# If you use our RRNet, please cite our paper:
+# If you use our GLNet, please cite our paper:
 
     @article{GLNet,
         title={Global-and-local collaborative learning for co-Salient object detection},
