@@ -1,2 +1,7 @@
 # GLNet_TCYB2022
-The results and code of our IEEE TCYB 2022 paper, titled "Global-and-Local Collaborative Learning for Co-Salient Object Detection"
+Runmin Cong, Ning Yang, Chongyi Li, Huazhu Fu, Yao Zhao, Qingming Huang, and Sam Kwong, Global-and-local collaborative learning for co-Salient object detection, IEEE Transactions on Cybernetics, 2022.
+
+Project: https://rmcong.github.io/proj_GLNet.html
+
+# Code and Results of RRNet:
+  - Coming soon......
