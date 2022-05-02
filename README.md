@@ -3,8 +3,7 @@ Runmin Cong, Ning Yang, Chongyi Li, Huazhu Fu, Yao Zhao, Qingming Huang, and Sam
 
 Project: https://rmcong.github.io/proj_GLNet.html
 
-# Code and Results of GLNet:
-  - Coming soon......
+# Results of GLNet:
 * Results:
   - We provide the resutls of our GLNet on Cosal2015, iCoseg, and MSRC. 
 ```
@@ -18,7 +17,7 @@ Baidu Cloud: https://pan.baidu.com/s/1sXBc4H3fKK8Y8ceaU4AjSQ  Password: 0224
 Baidu Cloud: https://pan.baidu.com/s/1sXBc4H3fKK8Y8ceaU4AjSQ  Password: 0224
 ```
 
-# Pytorch
+# Pytorch Code of GLNet:
 * Pytorch implementation of GLNet
 
 ## Requirements
