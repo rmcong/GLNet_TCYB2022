@@ -9,6 +9,10 @@ Project: https://rmcong.github.io/proj_GLNet.html
 ```
 Baidu Cloud: https://pan.baidu.com/s/1sXBc4H3fKK8Y8ceaU4AjSQ  Password: 0224
 ```
+
+
+# Pytorch Code of GLNet:
+* Pytorch implementation of GLNet
 * Pretrained model:
   - We provide our testing code. If you test our model, please download the pretrained model, unzip it, and put the checkpoint `model_GLNet.pth` to `Checkpoints/trained/` folder 
   and put the pretrained backbone `backbone_v.pth` to `Checkpoints/warehouse/` folder.
@@ -16,9 +20,6 @@ Baidu Cloud: https://pan.baidu.com/s/1sXBc4H3fKK8Y8ceaU4AjSQ  Password: 0224
 ```
 Baidu Cloud: https://pan.baidu.com/s/1sXBc4H3fKK8Y8ceaU4AjSQ  Password: 0224
 ```
-
-# Pytorch Code of GLNet:
-* Pytorch implementation of GLNet
 
 ## Requirements
 
